@@ -1,3 +1,5 @@
-fun main() {
-    println("Hello from Kotlin + Maven!")
+@file:Suppress("unused")
+
+fun legacyMain() {
+    println("Use pl.projektzespolowy.ApplicationKt instead.")
 }
